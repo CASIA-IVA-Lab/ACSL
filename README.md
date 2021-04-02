@@ -17,7 +17,7 @@ The requirements are exactly the same as [BalancedGroupSoftmax](https://github.c
 - cuda 10.0
 - pytorch 1.2.0
 - torchvision 0.4.0
-- [mmcv 0.2.14](https://github.com/open-mmlab/mmcv)
+- [mmcv 0.2.14](https://github.com/open-mmlab/mmcv/tree/v0.2.14)
 
 ```setup
 conda create -n mmdet python=3.7 -y

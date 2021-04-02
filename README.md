@@ -168,7 +168,7 @@ python tools/test_lvis.py configs/acsl/faster_rcnn_r50_fpn_1x_lvis_tunefc_acsl.p
 
 ## Results and models
 
-Please refer to our [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf) for more details.
+Please refer to our [paper](link) for more details.
 
 | Method   | Models       | bbox mAP | Config file                                                             |   Pretrained Model          |            Model          |
 | -------- | ------------ | -------- | ----------------------------------------------------------------------- | --------------------------- | ------------------------- |

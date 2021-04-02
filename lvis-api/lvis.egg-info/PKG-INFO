@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: lvis
+Version: 0.5.1
+Summary: Python API for LVIS dataset.
+Home-page: UNKNOWN
+Author: Agrim Gupta
+License: UNKNOWN
+Description: LVIS (pronounced ‘el-vis’): is a new dataset for Large Vocabulary Instance Segmentation.
+        We collect over 2 million high-quality instance segmentation masks for over 1200 entry-level object categories in 164k images. LVIS API enables reading and interacting with annotation files,
+        visualizing annotations, and evaluating results.
+        
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

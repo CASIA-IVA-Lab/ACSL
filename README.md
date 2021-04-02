@@ -31,6 +31,11 @@ pip install pycocotools
 pip install matplotlib
 pip install terminaltables
 
+# download the source code of mmcv 0.2.14 from https://github.com/open-mmlab/mmcv/tree/v0.2.14
+cd mmcv-0.2.14
+pip install -v -e .
+cd ../
+
 git clone https://github.com/CASIA-IVA-Lab/ACSL.git
 
 cd ACSL/lvis-api/

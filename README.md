@@ -2,7 +2,7 @@
 
 
 This repo is the official implementation for CVPR 2021 paper: **Adaptive Class Suppression Loss for Long-Tail Object Detection**.
-[[Paper]](link)
+[[Paper]](https://arxiv.org/abs/2104.00885)
 
 
 ![Framework](imgs/overview.png)
@@ -168,7 +168,7 @@ python tools/test_lvis.py configs/acsl/faster_rcnn_r50_fpn_1x_lvis_tunefc_acsl.p
 
 ## Results and models
 
-Please refer to our [paper](link) for more details.
+Please refer to our [paper](https://arxiv.org/abs/2104.00885) for more details.
 
 | Method   | Models       | bbox mAP | Config file                                                             |   Pretrained Model          |            Model          |
 | -------- | ------------ | -------- | ----------------------------------------------------------------------- | --------------------------- | ------------------------- |
